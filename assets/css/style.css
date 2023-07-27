@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* styles for header section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* styles for navigation bar and menu items */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,6 +38,7 @@ header nav ul {
     list-style-type: none;
 }
 
+/* List items in navigation bar */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* styles for hero image section */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +63,26 @@ p {
     background-position: center;
 }
 
+/* styles for elements with class name value float-left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* styles for elements with class name value float-right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* styles for section 2 page body content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* styles for asides section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +142,7 @@ p {
     max-width: 150px;
 }
 
+/* more styles for section 2 page body content */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +197,7 @@ p {
     font-size: 36px;
 }
 
+/* styles for footer section */
 footer {
     padding: 30px;
     clear: both;
