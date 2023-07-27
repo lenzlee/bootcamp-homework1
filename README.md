@@ -1,8 +1,8 @@
 # bootcamp-hw-01
 
-# 01 HTML, CSS, and Git: Code Refactor
+# WEEK 1 HOMEWORK: HTML, CSS, and Git: Code Refactor
 
-This is an "on the job ticket" challenge where we are given a started code that we modified to complete the challenge.
+This is an "on the job ticket" challenge where we are given a starter code that we modified to complete the challenge.
 
 ## The Task
 
