@@ -1,6 +1,6 @@
-# bootcamp-hw-01
+# Code Refactor
 
-# WEEK 1 HOMEWORK: HTML, CSS, and Git: Code Refactor
+# Module 1: HTML, CSS, and Git Challenge
 
 This is an "on the job ticket" challenge where we are given a starter code that we modified to complete the challenge.
 
@@ -31,6 +31,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## URLs Submitted
+
+* URL of Application: https://lenzlee.github.io/bootcamp-homework1/
+
+* URL of GitHub Repo: https://github.com/lenzlee/bootcamp-homework1.git
+
+
 
 
 
